@@ -6,6 +6,6 @@ Tech stack:
 - Mongo DB
 - Mongo realm and sync
 
-APK of the app are attached:- https://github.com/somesh4545/Todo-app-realm-Moontropy-private-limited/tree/master/APK
+APK of the app are attached:- https://github.com/somesh4545/TODO-app-Moontropy-Private-Limited/tree/master/APK
 
-SS of the app are attached:- https://github.com/somesh4545/Todo-app-realm-Moontropy-private-limited/tree/master/App-SS
+SS of the app are attached:- https://github.com/somesh4545/TODO-app-Moontropy-Private-Limited/tree/master/App-SS
